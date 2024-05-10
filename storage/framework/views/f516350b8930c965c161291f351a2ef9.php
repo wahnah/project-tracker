@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\Christopher Malambo\Desktop\projects-tracker project\projects-tracker\resources\views\projecttasks\details.blade.php ENDPATH**/ ?>
